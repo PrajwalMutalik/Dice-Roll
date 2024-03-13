@@ -1,2 +1,2 @@
 # Dice-Roll
-A small project that solves the two fights , lol
+A small project that solves the two person's fight over something, lol.
